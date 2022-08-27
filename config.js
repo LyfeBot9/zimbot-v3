@@ -39,11 +39,11 @@ global.APIKeys = {
 // Other
 global.owner = ['923184474176','']
 global.premium = ['','923184474176']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.botname = 'SUHAIL TECH'
+global.ownername = 'SUHAIL TECH'
 global.group1 = 'https://chat.whatsapp.com/KGQ9TUJrhQT52d1xnFOCIJ'
 global.group2 = 'https://chat.whatsapp.com/KGQ9TUJrhQT52d1xnFOCIJ'
-global.packname = 'ZIM BOT INC'
+global.packname = 'ZIM BY SUHAIL'
 global.ytchannel = 'https://www.youtube.com/c/SuhailTechInfo'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -65,27 +65,27 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = ' SUHAIL TECH INFO'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🙂']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
-    private: '*this feature can only used in dm okay*',
-    bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
-    endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
+    success: '',
+        ban: 'Sorry, looks like u got banned😔😔 type .owner To request unban okay',
+    horny: 'nsfw is disabled please ask owner to enable it',
+    admin: '*this cmd is for admin only , l can feel you but sorry okay',
+    botAdmin: 'with due respect can you please give bot adminship',
+    owner: 'this cmd is for bot owner only',
+    group: 'This feature is only for groups okay*',
+    private: 'this feature can only used in dm oka',
+    bot: 'Special Features for User Bot Number okay',
+    wait: '',
+    endLimit: 'sDaily Limit Has Expired, Reset in 12 hours',
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 50
 }
    global.rpg = {
    darahawal: 100,
